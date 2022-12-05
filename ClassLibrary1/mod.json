@@ -1,0 +1,15 @@
+﻿{
+  "Id": "KnifeDamageModSN",
+  "DisplayName": "Knife Damage Mod SN",
+  "Author": "Moritz Mertens",
+  "Version": "1.0.0",
+  "Enable": true,
+  "AssemblyName": "KnifeDamageMod_SN.dll",
+  "VersionDependencies": {
+    "SMLHelper": "2.14.1"
+  },
+  "Game": "Subnautica"
+  {
+
+  }  
+  
